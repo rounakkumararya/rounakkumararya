@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @rounakkumararya
-- 👀 I’m interested in research coding
+- 👀 I’m interested in advanced technologies
+- 
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on web development
 - 📫 rounakkumar040@gmail.com
