@@ -7,7 +7,7 @@
   </p>
 </blockquote>
 
-Welcome to my GitHub profile! I'm a passionate and enthusiastic student with a drive to create real-life, human-centric projects that make a positive impact.
+ A passionate and enthusiastic developer with a drive to create real-life, human-centric projects that make a positive impact.
 
 ### 🚀 Expertise
 
@@ -15,7 +15,6 @@ Welcome to my GitHub profile! I'm a passionate and enthusiastic student with a d
 - **Front-End Technologies**: React, Vanillajs, css, jquery, html, bootstrap, redux, sass
 - **Back-End Technologies**: Nodejs, expressjs,firebase 
 - **Database Technologies**: MongoDb, MySql, PostgreSql
-- **Development Tools**: AdobeXD, Insomnia, Postman, Blender, Figma
 - **Development Tools**: AdobeXD, Insomnia, Postman, Blender, Figma
 - **UI/UX Skills**: Wireframing, Prototyping, UX research, Responsive web-design
 - **UI/UX Design**: Completed Google UX Design specialization course learning differnt design process, work management, career options, design for social good
@@ -64,17 +63,6 @@ Feel free to reach out to me for collaborations, discussions, or just to say hel
   <img src="https://github-readme-stats.vercel.app/api?username=rounakkumararya&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&locale=en" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-       <img src="https://github-readme-streak-stats.herokuapp.com/?user=rounakkumararya&background=000000&stroke=130F40&ring=2234AE&fire=D3D3D3&currStreakNum=D3D3D3&sideNums=D3D3D3&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=D3D3D3" alt="GitHub Streak" />
-
-
-<details align="center">
-  <summary>GitHub Trophies 🏆</summary>
-  <br>
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=rounakkumararay&theme=darkhub&column=7&bgColor=000000&noFrame=true&row=1&margin-w=15" alt="GitHub Trophies" />
-  </p>
-</details>
 
 
 ------
