@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D5616AQFK0Mga81A4Eg/profile-displaybackgroundimage-shrink_350_1400/0/1700232643983?e=1724284800&v=beta&t=J0k6AJ7yj5Druzxes0PLRZuHmNvGTk7eGhhdhjpAVII)
+
 <h1 align="center">Hi there! I'm Rounak 👋</h1>
 
 <blockquote style="font-size: 24px;">
